@@ -1,0 +1,41 @@
+site_name: چکیده
+theme:
+  name: material
+  language: fa
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: انتقال به حالت تاریک
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: انتقال به حالت روشن
+  font:
+    text: Vazirmatn
+  features:
+    - navigation.footer
+    - navigation.tabs
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/MEgooneh/Chekideh
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/Chekidehbook_channel
+  generator: false
+  
+plugins:
+  - search:
+      lang: fa
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra_css:
+  - https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css
+  - https://cdn.jsdelivr.net/gh/rastikerdar/vazir-code-font@v1.1.2/dist/font-face.css
+copyright: این پروژه کاملا رایگان و متن‌باز است.❤️
+
