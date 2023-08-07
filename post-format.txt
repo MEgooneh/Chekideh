@@ -1,5 +1,5 @@
 f"""
-> ![{data['title']}]({data['imageLinks']['thumbnail']}) 
+> ![{data['title']}]({data['imageLinks']['thumbnail']})
 
 > نام اثر: {data['title']} 
 
@@ -11,5 +11,10 @@ f"""
 
 
 {res}
+
+
+!!! note "نویسنده‌ی این مطلب:"
+    GPT3.5-turbo
+
 
 """

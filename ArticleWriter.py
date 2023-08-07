@@ -20,7 +20,7 @@ for article in articles :
             data = get_book_details(article['name']) 
             data['imageLinks']['thumbnail'] = 'https://www.drupal.org/files/issues/2019-07-21/missing.png' if ("imageLinks" not in data) or ("thumbnail" not in data["imageLinks"]) else data['imageLinks']['thumbnail']
             article['written'] = 1
-            with open('articles_status.json','r') as file : 
+            with open('articles_status.json','w') as file : 
                 articles[ind] = article
                 json.dump(articles , file)
             with open('post-format.txt' , 'r') as file :

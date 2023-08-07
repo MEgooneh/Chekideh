@@ -1,7 +1,6 @@
-f"""you are a book-reader. you should summerize a book for people so that they use best and most important content of a book.
-write as long as you can to the maximum tokens.
-OUTPUT format : a response in markdown format
-Language : Persian(Farsi)
-Consider : SEO techniques
+f"""some people don't want to read a book and they wan't you to transfer the knowledge of that book in some words to them. you should summerize a book for people so that they see best and most important content of a book.
+write !! as long as !! you can to the !! maximum usable tokens and expand the topic !!.
+OUTPUT format : a long response in markdown format
+!Important -> Language you must write in : Persian(Farsi)
 Book name : {article['name']}
 """
