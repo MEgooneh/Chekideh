@@ -1,1 +1,232 @@
-[{"name": "Clean Code: A Handbook of Agile Software Craftsmanship\" by Robert C. Martin", "written": 1, "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"}]
+[
+    {
+        "name": "Clean Code: A Handbook of Agile Software Craftsmanship\" by Robert C. Martin",
+        "written": 1,
+        "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
+    },
+    {
+        "name": "The Pragmatic Programmer: Your Journey to Mastery\" by Andrew Hunt and David Thomas",
+        "written": 1,
+        "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
+    },
+    {
+        "name": "Refactoring: Improving the Design of Existing Code\" by Martin Fowler",
+        "written": 1,
+        "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
+    },
+    {
+        "name": "Design Patterns: Elements of Reusable Object-Oriented Software\" by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, and Grady Booch",
+        "written": 0,
+        "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
+    },
+    {
+        "name": "Effective Java\" by Joshua Bloch",
+        "written": 0,
+        "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
+    },
+    {
+        "name": "Code Complete: A Practical Handbook of Software Construction\" by Steve McConnell",
+        "written": 0,
+        "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
+    },
+    {
+        "name": "Introduction to the Theory of Computation\" by Michael Sipser",
+        "written": 1,
+        "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
+    },
+    {
+        "name": "Domain-Driven Design: Tackling Complexity in the Heart of Software\" by Eric Evans",
+        "written": 0,
+        "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
+    },
+    {
+        "name": "Test-Driven Development: By Example\" by Kent Beck",
+        "written": 1,
+        "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
+    },
+    {
+        "name": "Clean Architecture: A Craftsman's Guide to Software Structure and Design\" by Robert C. Martin",
+        "written": 1,
+        "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
+    },
+    {
+        "name": "Awaken the Giant Within\" by Tony Robbins",
+        "written": 0,
+        "category": "\u062a\u0648\u0633\u0639\u0647 \u0641\u0631\u062f\u06cc"
+    },
+    {
+        "name": "The 5 Second Rule: Transform your Life, Work, and Confidence with Everyday Courage\" by Mel Robbins",
+        "written": 1,
+        "category": "\u062a\u0648\u0633\u0639\u0647 \u0641\u0631\u062f\u06cc"
+    },
+    {
+        "name": "The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM)\" by Hal Elrod",
+        "written": 1,
+        "category": "\u062a\u0648\u0633\u0639\u0647 \u0641\u0631\u062f\u06cc"
+    },
+    {
+        "name": "Start with Why: How Great Leaders Inspire Everyone to Take Action\" by Simon Sinek",
+        "written": 1,
+        "category": "\u062a\u0648\u0633\u0639\u0647 \u0641\u0631\u062f\u06cc"
+    },
+    {
+        "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones\" by James Clear",
+        "written": 1,
+        "category": "\u062a\u0648\u0633\u0639\u0647 \u0641\u0631\u062f\u06cc"
+    },
+    {
+        "name": "The Power of Now: A Guide to Spiritual Enlightenment\" by Eckhart Tolle",
+        "written": 1,
+        "category": "\u062a\u0648\u0633\u0639\u0647 \u0641\u0631\u062f\u06cc"
+    },
+    {
+        "name": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life\" by Jen Sincero",
+        "written": 1,
+        "category": "\u062a\u0648\u0633\u0639\u0647 \u0641\u0631\u062f\u06cc"
+    },
+    {
+        "name": "Mindset: The New Psychology of Success\" by Carol S. Dweck",
+        "written": 1,
+        "category": "\u062a\u0648\u0633\u0639\u0647 \u0641\u0631\u062f\u06cc"
+    },
+    {
+        "name": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life\" by Mark Manson",
+        "written": 1,
+        "category": "\u062a\u0648\u0633\u0639\u0647 \u0641\u0631\u062f\u06cc"
+    },
+    {
+        "name": "Influence: The Psychology of Persuasion\" by Robert B. Cialdini",
+        "written": 0,
+        "category": "\u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc"
+    },
+    {
+        "name": "Predictably Irrational: The Hidden Forces That Shape Our Decisions\" by Dan Ariely",
+        "written": 0,
+        "category": "\u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc"
+    },
+    {
+        "name": "Thinking, Fast and Slow\" by Daniel Kahneman",
+        "written": 1,
+        "category": "\u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc"
+    },
+    {
+        "name": "Drive: The Surprising Truth About What Motivates Us\" by Daniel H. Pink",
+        "written": 1,
+        "category": "\u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc"
+    },
+    {
+        "name": "Blink: The Power of Thinking Without Thinking\" by Malcolm Gladwell",
+        "written": 1,
+        "category": "\u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc"
+    },
+    {
+        "name": "The Paradox of Choice: Why More Is Less\" by Barry Schwartz",
+        "written": 1,
+        "category": "\u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc"
+    },
+    {
+        "name": "Emotional Intelligence: Why It Can Matter More Than IQ\" by Daniel Goleman",
+        "written": 1,
+        "category": "\u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc"
+    },
+    {
+        "name": "The Art of Happiness\" by Dalai Lama and Howard Cutler",
+        "written": 1,
+        "category": "\u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc"
+    },
+    {
+        "name": "The Talent Code: Greatness Isn't Born. It's Grown. Here's How.\" by Daniel Coyle",
+        "written": 1,
+        "category": "\u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc"
+    },
+    {
+        "name": "Leaders Eat Last: Why Some Teams Pull Together and Others Don't\" by Simon Sinek",
+        "written": 1,
+        "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
+    },
+    {
+        "name": "Good to Great: Why Some Companies Make the Leap and Others Don't\" by Jim Collins",
+        "written": 1,
+        "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
+    },
+    {
+        "name": "Start with Why: How Great Leaders Inspire Everyone to Take Action\" by Simon Sinek (also listed under Self-Development)",
+        "written": 1,
+        "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
+    },
+    {
+        "name": "Drive: The Surprising Truth About What Motivates Us\" by Daniel H. Pink (also listed under Psychological Insights)",
+        "written": 1,
+        "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
+    },
+    {
+        "name": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses\" by Eric Ries",
+        "written": 0,
+        "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
+    },
+    {
+        "name": "The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business\" by Clayton M. Christensen",
+        "written": 0,
+        "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
+    },
+    {
+        "name": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change\" by Stephen R. Covey",
+        "written": 0,
+        "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
+    },
+    {
+        "name": "Thinking, Fast and Slow\" by Daniel Kahneman (also listed under Psychological Insights)",
+        "written": 0,
+        "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
+    },
+    {
+        "name": "Blue Ocean Strategy: How to Create Uncontested Market Space and Make Competition Irrelevant\" by W. Chan Kim and Ren\u00e9e Mauborgne",
+        "written": 0,
+        "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
+    },
+    {
+        "name": "The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health\" by T. Colin Campbell and Thomas M. Campbell II",
+        "written": 0,
+        "category": "\u0633\u0644\u0627\u0645\u062a"
+    },
+    {
+        "name": "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich\" by Timothy Ferriss",
+        "written": 0,
+        "category": "\u0633\u0644\u0627\u0645\u062a"
+    },
+    {
+        "name": "Why We Sleep: Unlocking the Power of Sleep and Dreams\" by Matthew Walker",
+        "written": 0,
+        "category": "\u0633\u0644\u0627\u0645\u062a"
+    },
+    {
+        "name": "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen\" by Christopher McDougall",
+        "written": 0,
+        "category": "\u0633\u0644\u0627\u0645\u062a"
+    },
+    {
+        "name": "Eat, Pray, Love: One Woman's Search for Everything Across Italy, India, and Indonesia\" by Elizabeth Gilbert",
+        "written": 0,
+        "category": "\u0633\u0644\u0627\u0645\u062a"
+    },
+    {
+        "name": "Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar\u2014Your Brain's Silent Killers\" by David Perlmutter",
+        "written": 0,
+        "category": "\u0633\u0644\u0627\u0645\u062a"
+    },
+    {
+        "name": "The Whole30: The 30-Day Guide to Total Health and Food Freedom\" by Melissa Hartwig Urban and Dallas Hartwig",
+        "written": 0,
+        "category": "\u0633\u0644\u0627\u0645\u062a"
+    },
+    {
+        "name": "The Power of Vulnerability: Teachings on Authenticity, Connection, and Courage\" by Bren\u00e9 Brown",
+        "written": 0,
+        "category": "\u0633\u0644\u0627\u0645\u062a"
+    },
+    {
+        "name": "The Compound Effect: Jumpstart Your Income, Your Life, Your Success\" by Darren Hardy",
+        "written": 0,
+        "category": "\u0633\u0644\u0627\u0645\u062a"
+    }
+]

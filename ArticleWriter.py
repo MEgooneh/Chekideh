@@ -10,7 +10,6 @@ def get_book_details(book_title) :
 
 with open('articles_status.json' , 'r') as file :
     articles = json.load(file)
-articles = [articles[0]]
 ind = 0
 for article in articles :
     if article['written'] == 0 : 
@@ -22,7 +21,7 @@ for article in articles :
             article['written'] = 1
             with open('articles_status.json','w') as file : 
                 articles[ind] = article
-                json.dump(articles , file)
+                json.dump(articles , file , indent=4)
             with open('post-format.txt' , 'r') as file :
                 res = eval(file.read())
             with open(f"docs/{article['category']}/{data['title']}.md" , 'w') as file : 
@@ -30,4 +29,6 @@ for article in articles :
             print(f"Article {article['name']} Done!")
         except Exception as e:
             print(f"Error while writing article {article['name']}. : {e}")
+    else:
+        print('+')
     ind += 1
