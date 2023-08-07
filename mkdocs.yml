@@ -30,6 +30,9 @@ plugins:
 
 markdown_extensions:
   - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -37,5 +40,6 @@ markdown_extensions:
 extra_css:
   - https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css
   - https://cdn.jsdelivr.net/gh/rastikerdar/vazir-code-font@v1.1.2/dist/font-face.css
+  - stylesheets/extra.css
 copyright: این پروژه کاملا رایگان و متن‌باز است.❤️
 

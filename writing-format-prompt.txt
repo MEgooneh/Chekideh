@@ -1,0 +1,7 @@
+f"""you are a book-reader. you should summerize a book for people so that they use best and most important content of a book.
+write as long as you can to the maximum tokens.
+OUTPUT format : a response in markdown format
+Language : Persian(Farsi)
+Consider : SEO techniques
+Book name : {article['name']}
+"""

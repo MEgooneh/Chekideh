@@ -1,0 +1,15 @@
+f"""
+> ![{data['title']}]({data['imageLinks']['thumbnail']}) 
+
+> نام اثر: {data['title']} 
+
+> نویسندگان: {str(data['authors'])[1:-1]}
+
+> ناشر: {data['publisher']}
+
+
+
+
+{res}
+
+"""

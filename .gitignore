@@ -1,3 +1,4 @@
 __test.py
-site/
+site
 books-list.txt
+__pycache__
