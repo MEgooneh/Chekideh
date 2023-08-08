@@ -21,12 +21,12 @@
     },
     {
         "name": "Effective Java\" by Joshua Bloch",
-        "written": 0,
+        "written": 1,
         "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
     },
     {
         "name": "Code Complete: A Practical Handbook of Software Construction\" by Steve McConnell",
-        "written": 0,
+        "written": 1,
         "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
         "name": "Domain-Driven Design: Tackling Complexity in the Heart of Software\" by Eric Evans",
-        "written": 0,
+        "written": 1,
         "category": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc"
     },
     {
@@ -101,7 +101,7 @@
     },
     {
         "name": "Predictably Irrational: The Hidden Forces That Shape Our Decisions\" by Dan Ariely",
-        "written": 0,
+        "written": 1,
         "category": "\u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc"
     },
     {
@@ -161,72 +161,72 @@
     },
     {
         "name": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses\" by Eric Ries",
-        "written": 0,
+        "written": 1,
         "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
     },
     {
         "name": "The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business\" by Clayton M. Christensen",
-        "written": 0,
+        "written": 1,
         "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
     },
     {
         "name": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change\" by Stephen R. Covey",
-        "written": 0,
+        "written": 1,
         "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
     },
     {
         "name": "Thinking, Fast and Slow\" by Daniel Kahneman (also listed under Psychological Insights)",
-        "written": 0,
+        "written": 1,
         "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
     },
     {
         "name": "Blue Ocean Strategy: How to Create Uncontested Market Space and Make Competition Irrelevant\" by W. Chan Kim and Ren\u00e9e Mauborgne",
-        "written": 0,
+        "written": 1,
         "category": "\u0645\u062f\u06cc\u0631\u06cc\u062a"
     },
     {
         "name": "The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health\" by T. Colin Campbell and Thomas M. Campbell II",
-        "written": 0,
+        "written": 1,
         "category": "\u0633\u0644\u0627\u0645\u062a"
     },
     {
         "name": "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich\" by Timothy Ferriss",
-        "written": 0,
+        "written": 1,
         "category": "\u0633\u0644\u0627\u0645\u062a"
     },
     {
         "name": "Why We Sleep: Unlocking the Power of Sleep and Dreams\" by Matthew Walker",
-        "written": 0,
+        "written": 1,
         "category": "\u0633\u0644\u0627\u0645\u062a"
     },
     {
         "name": "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen\" by Christopher McDougall",
-        "written": 0,
+        "written": 1,
         "category": "\u0633\u0644\u0627\u0645\u062a"
     },
     {
         "name": "Eat, Pray, Love: One Woman's Search for Everything Across Italy, India, and Indonesia\" by Elizabeth Gilbert",
-        "written": 0,
+        "written": 1,
         "category": "\u0633\u0644\u0627\u0645\u062a"
     },
     {
         "name": "Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar\u2014Your Brain's Silent Killers\" by David Perlmutter",
-        "written": 0,
+        "written": 1,
         "category": "\u0633\u0644\u0627\u0645\u062a"
     },
     {
         "name": "The Whole30: The 30-Day Guide to Total Health and Food Freedom\" by Melissa Hartwig Urban and Dallas Hartwig",
-        "written": 0,
+        "written": 1,
         "category": "\u0633\u0644\u0627\u0645\u062a"
     },
     {
         "name": "The Power of Vulnerability: Teachings on Authenticity, Connection, and Courage\" by Bren\u00e9 Brown",
-        "written": 0,
+        "written": 1,
         "category": "\u0633\u0644\u0627\u0645\u062a"
     },
     {
         "name": "The Compound Effect: Jumpstart Your Income, Your Life, Your Success\" by Darren Hardy",
-        "written": 0,
+        "written": 1,
         "category": "\u0633\u0644\u0627\u0645\u062a"
     }
 ]
