@@ -4,10 +4,12 @@ theme:
   language: fa
   palette:
     - scheme: default
+    - primary: teal
       toggle:
         icon: material/brightness-7 
         name: انتقال به حالت تاریک
     - scheme: slate
+    - primary: teal
       toggle:
         icon: material/brightness-4
         name: انتقال به حالت روشن
