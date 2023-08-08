@@ -3,16 +3,7 @@ theme:
   name: material
   language: fa
   palette:
-    - scheme: default
     - primary: teal
-      toggle:
-        icon: material/brightness-7 
-        name: انتقال به حالت تاریک
-    - scheme: slate
-    - primary: teal
-      toggle:
-        icon: material/brightness-4
-        name: انتقال به حالت روشن
   font:
     text: Vazirmatn
   features:
@@ -47,5 +38,5 @@ extra_css:
   - https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css
   - https://cdn.jsdelivr.net/gh/rastikerdar/vazir-code-font@v1.1.2/dist/font-face.css
   - stylesheets/extra.css
-copyright: این پروژه کاملا رایگان و متن‌باز است.❤️
+copyright: این پروژه متن‌باز است.❤️
 
